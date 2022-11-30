@@ -13,9 +13,8 @@ https://api.sap.com/api/OP_API_OPLACCTGDOCITEMCUBE_SRV_0001/overview
 
 sap-accounting-document-sql には、sqlの設定ファイルとして、以下のファイルが含まれています。  
 
-* sap-accounting-document-sql-sap-accounting-document-item-data.sql（SAP 会計伝票 - 会計伝票品目データ）
+* sap-accounting-document-sql-accounting-document-item-data.sql（SAP 会計伝票 - 会計伝票明細データ）
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
 
 MySQLのセットアップ / Kubernetesの設定 / 具体的なSQLテーブルの作成方法、については、[mysql-kube](https://github.com/latonaio/mysql-kube)を参照ください。
-
